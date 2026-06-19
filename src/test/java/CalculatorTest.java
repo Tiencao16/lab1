@@ -27,3 +27,4 @@ public class CalculatorTest {
         assertEquals(0, calc.sumEvenNumbers(input));
     }
 }
+
